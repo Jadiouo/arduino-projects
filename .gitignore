@@ -1,0 +1,19 @@
+# Third-party libraries installed by the Arduino IDE (re-install via Library Manager)
+libraries/
+hardware/
+tools/
+
+# Local credentials (see */secrets.h.example)
+secrets.h
+
+# Build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
