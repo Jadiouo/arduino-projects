@@ -31,3 +31,7 @@
 ## 開發板套件
 
 - ESP32 系列：Arduino IDE 需安裝 `esp32` by Espressif（Boards Manager）。
+
+## 授權
+
+MIT
